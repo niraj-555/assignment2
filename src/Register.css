@@ -1,0 +1,32 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  margin-left: 25rem;
+  margin-top: 3rem;
+  margin-right: 25rem;
+}
+
+.title {
+  margin-left: 3rem;
+  margin-top: 3rem;
+}
+
+.mainContainer input {
+  margin-left: 10px;
+}
+
+.mainContainer form {
+  border: 2px solid;
+  padding: 2rem 5rem 2rem;
+}
+
+.inputDiv {
+  margin-bottom: 10px;
+}
+
+.submitButton {
+  margin-top: 2rem;
+  margin-left: 5rem;
+  height: 5vh;
+  width: 10vw;
+}
